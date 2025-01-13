@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-size: 1.2rem;
+}
+
+body {
+  margin: 0;
+  color: white;
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clock {
+  min-width: 2rem;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 0.5rem;
+}
+.tody {
+  margin-bottom: 0.75rem;
+}
+.time {
+  margin-top: 0.75rme;
+}
